@@ -2,11 +2,11 @@
 
 ## 1. Información general
 
--   **Destino: Lollapaloza**
--   **Fechas: Marzo**
--   **Duración: 1 semana**
--   **Viajeros: 4**
--   **Presupuesto estimado: <1000$**
+-   **Destino:**
+-   **Fechas:**
+-   **Duración:**
+-   **Viajeros:**
+-   **Presupuesto estimado:**
 
 ## 2. Transporte
 
@@ -38,10 +38,10 @@
 
   Concepto        Costo estimado   Costo real
   ------------- ---------------- ------------
-  Transporte     AVION                
+  Transporte     Auto                
   Alojamiento    HOTEL 3*               
   Comidas        DESAYUNO                
-  Actividades    TURISMO                
+  Actividades                   
   Otros                          
   **Total**                      
 
