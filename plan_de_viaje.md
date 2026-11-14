@@ -38,10 +38,10 @@
 
   Concepto        Costo estimado   Costo real
   ------------- ---------------- ------------
-  Transporte                     
-  Alojamiento                    
-  Comidas                        
-  Actividades                    
+  Transporte     AVION                
+  Alojamiento    HOTEL 3*               
+  Comidas        DESAYUNO                
+  Actividades    TURISMO                
   Otros                          
   **Total**                      
 
