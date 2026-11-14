@@ -2,11 +2,11 @@
 
 ## 1. Información general
 
--   **Destino:**
--   **Fechas:**
--   **Duración:**
--   **Viajeros:**
--   **Presupuesto estimado:**
+-   **Destino: Lollapaloza**
+-   **Fechas: Marzo**
+-   **Duración: 1 semana**
+-   **Viajeros: 4**
+-   **Presupuesto estimado: <1000$**
 
 ## 2. Transporte
 
